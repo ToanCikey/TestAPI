@@ -1,15 +1,15 @@
 {
   "student": [
     {
-      "masv": 1,
+      "masv": "1",
       "tensv": "Tuyen"
     },
     {
-      "masv": 2,
+      "masv": "2",
       "tensv": "Quoc"
     },
     {
-      "masv": 3,
+      "masv": "3",
       "tensv": "Nguyen"
     }
   ]
